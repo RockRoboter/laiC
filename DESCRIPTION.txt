@@ -1,0 +1,4 @@
+Package: laiC
+Type: Package
+Title: Basic R utilities for students
+Version: 0.0.1
